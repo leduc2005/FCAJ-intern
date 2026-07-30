@@ -41,8 +41,8 @@ Plan V đã làm tôi thay đổi cách hiểu về hai chữ "Agentic". Trải 
 
 #### Minh chứng tham gia
 
-![Minh chứng tham gia 1](/images/4-EventParticipated/event2-1.jpg)
+![Minh chứng tham gia 1](../../images/4-EventParticipated/event2-1.jpg)
 *Không khí ngày Demo & Pitch*
 
-![Minh chứng tham gia 2](/images/4-EventParticipated/event2-2.jpg)
+![Minh chứng tham gia 2](../../images/4-EventParticipated/event2-2.jpg)
 *Một phần trình bày trong sự kiện*
