@@ -27,11 +27,17 @@ Bốn đội đã trình bày nổi bật nhất:
 | **Dream AI**| Signal Scout | Theo dõi tín hiệu công khai để phát hiện sớm thay đổi chiến lược doanh nghiệp |
 | **One Team**| Ordering Without Leaving the Chat | Cho phép khách hàng đặt hàng bằng hội thoại AI ngay trong app chat đang dùng |
 
+![Không khí ngày Demo & Pitch](/images/4-EventParticipated/event2-1.jpg)
+*Không khí ngày Demo & Pitch*
+
 Sản phẩm của 3KA sử dụng YOLO, ByteTrack kết hợp cùng Amazon SageMaker và Bedrock Agent để tạo ra một hệ thống giám sát tự trị và trợ lý vận hành có thể hỏi đáp bằng ngôn ngữ tự nhiên, giải quyết bài toán phản ứng chậm tại các địa điểm lớn. 
 
 Sản phẩm của Plan V đánh thẳng vào nút thắt tốn thời gian của các Kỹ sư Giải pháp. Agent của họ nhận yêu cầu bằng ngôn ngữ tự nhiên, tự động phác thảo phương án kiến trúc, tạo sơ đồ Draw.io có thể chỉnh sửa và xuất mã cơ sở hạ tầng (IaC) qua Terraform kèm báo giá.
 
 Signal Scout của đội Dream AI giúp nhận diện sớm sự thay đổi chiến lược của doanh nghiệp từ dữ liệu rời rạc, mọi kết luận đều được chứng minh qua dữ liệu cụ thể hiển thị trên bảng điều khiển tự phục vụ. Trong khi đó, dự án của One Team gây ấn tượng mạnh bởi chiến lược API-first, tích hợp chức năng đặt hàng trực tiếp vào ứng dụng chat có sẵn thay vì bắt người dùng tải một ứng dụng mới.
+
+![Một phần trình bày trong sự kiện](/images/4-EventParticipated/event2-2.jpg)
+*Một phần trình bày trong sự kiện*
 
 #### Bài học và giá trị nhận được
 

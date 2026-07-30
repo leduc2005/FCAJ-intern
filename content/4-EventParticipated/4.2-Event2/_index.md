@@ -27,11 +27,17 @@ Four standout teams presented:
 | **Dream AI**| Signal Scout | Track public signals to early-detect corporate strategy shifts |
 | **One Team**| Ordering Without Leaving the Chat | Enable customers to place orders via conversational AI directly in their existing chat apps |
 
+![Demo & Pitch Day atmosphere](/images/4-EventParticipated/event2-1.jpg)
+*Demo & Pitch Day atmosphere*
+
 Team 3KA's product utilized YOLO, ByteTrack combined with Amazon SageMaker and Bedrock Agent to create an autonomous monitor and a natural language operator copilot, solving the issue of slow response times at large venues. 
 
 Plan V's product directly tackled the time-consuming bottlenecks faced by Solution Architects. Their Agent ingested natural language requirements to automatically draft architectural options, generate editable Draw.io diagrams, and export Infrastructure as Code (IaC) via Terraform along with cost estimates.
 
 Signal Scout by Dream AI helped early-detect corporate strategy shifts from fragmented data, with every conclusion backed by specific data displayed on a self-service dashboard. Meanwhile, One Team's project left a strong impression with its API-first strategy, integrating the ordering function directly into existing chat applications rather than forcing users to download a new app.
+
+![A presentation at the event](/images/4-EventParticipated/event2-2.jpg)
+*A presentation at the event*
 
 #### Lessons and value gained
 

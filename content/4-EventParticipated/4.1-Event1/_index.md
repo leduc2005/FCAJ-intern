@@ -18,11 +18,17 @@ pre: " <b> 4.1. </b> "
 
 This community sharing event delivered three technical sessions ranging from foundational to advanced topics.
 
+![FCAJ Community Sharing Event](/images/4-EventParticipated/event1-1.jpg)
+*FCAJ Community Sharing Event*
+
 In one notable session, speaker Ngo Le Tan Huy detailed the roadmap to conquering the AWS Cloud Practitioner (CLF-C02) exam. The presentation covered the exam structure of 65 multiple-choice questions divided into four core domains: Cloud Concepts, Security, Cloud Services, and Billing. The speaker emphasized effective test-taking tips, such as the process of elimination and keyword identification, helping candidates avoid overcomplicating a foundational-level assessment.
 
 Web application security was another highly engaging topic, led by DevSecOps engineer Thinh Nguyen. This session addressed the costly "Security Bottleneck" problem by introducing Frontier Agent—an autonomous AI Agent powered by Amazon Bedrock. Frontier Agent impressed the audience with its ability to automatically perform design reviews, conduct source code security reviews directly on Pull Requests, and execute automated penetration testing. However, the tool still faces limitations when encountering authentication layers like MFA or biometrics.
 
 Additionally, Nguyen Huynh Son provided an insightful presentation on SLAs and System Monitoring. This talk broadened my perspective from merely monitoring a "healthy infrastructure" (CPU, RAM) to ensuring a "good user experience" via business metrics. The session also provided a practical simulation of an alerting flow from CloudWatch to notification channels like Slack and Email.
+
+![Speaker presenting at the event](/images/4-EventParticipated/event1-2.jpg)
+*A presentation session at the event*
 
 #### Lessons and value gained
 
