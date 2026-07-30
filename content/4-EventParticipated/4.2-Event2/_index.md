@@ -41,8 +41,6 @@ Plan V changed my understanding of the term "Agentic". This experience proved th
 
 #### Proof of Participation
 
-![Proof of Participation 1](../../images/4-EventParticipated/event2-1.jpg)
-*Demo & Pitch Day atmosphere*
+![Proof of Participation 1](/images/4-EventParticipated/event2-1.jpg)
 
-![Proof of Participation 2](../../images/4-EventParticipated/event2-2.jpg)
-*A presentation at the event*
+![Proof of Participation 2](/images/4-EventParticipated/event2-2.jpg)

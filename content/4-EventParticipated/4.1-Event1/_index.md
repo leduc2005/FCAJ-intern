@@ -32,8 +32,6 @@ Furthermore, the presentation on SLAs highlighted common design flaws: a system 
 
 #### Proof of Participation
 
-![Proof of Participation 1](../../images/4-EventParticipated/event1-1.jpg)
-*FCAJ Community Sharing Event*
+![Proof of Participation 1](/images/4-EventParticipated/event1-1.jpg)
 
-![Proof of Participation 2](../../images/4-EventParticipated/event1-2.jpg)
-*A presentation session at the event*
+![Proof of Participation 2](/images/4-EventParticipated/event1-2.jpg)

@@ -32,8 +32,6 @@ Ngoài ra, phiên trình bày về SLA giúp tôi nhận ra những sai lầm th
 
 #### Minh chứng tham gia
 
-![Minh chứng tham gia 1](../../images/4-EventParticipated/event1-1.jpg)
-*Khung cảnh buổi chia sẻ cộng đồng FCAJ*
+![Minh chứng tham gia 1](/images/4-EventParticipated/event1-1.jpg)
 
-![Minh chứng tham gia 2](../../images/4-EventParticipated/event1-2.jpg)
-*Một phiên trình bày tại sự kiện*
+![Minh chứng tham gia 2](/images/4-EventParticipated/event1-2.jpg)
