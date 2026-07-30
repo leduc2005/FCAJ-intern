@@ -26,7 +26,7 @@ Về tác phong, tôi luôn cố gắng hoàn thành tốt nhiệm vụ, tuân t
 | 2 | **Khả năng tiếp thu** | Thích nghi và nắm bắt nhanh các công nghệ mới trong môi trường Serverless | ✅ | ☐ | ☐ |
 | 3 | **Tính chủ động trong công việc** | Tự giác tìm tòi tài liệu, đề xuất phương án kiến trúc mà không đợi nhắc nhở | ☐ | ✅ | ☐ |
 | 4 | **Cam kết và Trách nhiệm** | Đảm bảo tiến độ công việc được giao, chất lượng đầu ra đạt yêu cầu của nhóm | ✅ | ☐ | ☐ |
-| 5 | **Tuân thủ kỷ luật** | Chấp hành quy định về thời gian họp nhóm và quy trình làm việc chung | ☐ | ☐ | ✅ |
+| 5 | **Tuân thủ kỷ luật** | Chấp hành quy định về thời gian họp nhóm và quy trình làm việc chung | ✅ | ☐ | ☐ |
 | 6 | **Tinh thần cầu thị** | Biết lắng nghe góp ý từ mentor và đồng đội để tối ưu hóa hệ thống tốt hơn | ✅ | ☐ | ☐ |
 | 7 | **Kỹ năng truyền đạt** | Diễn đạt ý tưởng kỹ thuật dễ hiểu, cập nhật tiến độ công việc mạch lạc | ☐ | ✅ | ☐ |
 | 8 | **Tinh thần đồng đội** | Phối hợp nhịp nhàng với các thành viên khác, đặc biệt ở khâu ghép nối Backend - Frontend | ✅ | ☐ | ☐ |
@@ -39,6 +39,6 @@ Về tác phong, tôi luôn cố gắng hoàn thành tốt nhiệm vụ, tuân t
 
 Dù đã hoàn thành tốt vai trò chuyên môn trong dự án, nhìn lại quá trình làm việc, tôi nhận thấy mình vẫn còn một số điểm cần khắc phục để phát triển tốt hơn trong tương lai:
 
-* **Nâng cao tính kỷ luật:** Cần rèn luyện tác phong chuyên nghiệp hơn, chấp hành nghiêm chỉnh nội quy của công ty hoặc bất kỳ tổ chức nào mà mình tham gia.
+* **Quản lý thời gian cá nhân:** Dù luôn tuân thủ đúng tiến độ và kỷ luật nhóm, nhưng đôi lúc tôi vẫn phân bổ thời gian chưa thật sự tối ưu giữa việc nghiên cứu kiến trúc mới và thực thi dự án, dẫn đến việc thường xuyên phải thức khuya làm thêm.
 * **Cải thiện tư duy giải quyết vấn đề:** Trong những tình huống phát sinh lỗi tích hợp hạ tầng, đôi khi tôi vẫn xử lý hơi cứng nhắc. Tôi cần rèn luyện cách nhìn nhận vấn đề đa chiều hơn để đề xuất các giải pháp sáng tạo và tối ưu hơn.
 * **Kỹ năng giao tiếp:** Cần học cách giao tiếp tốt hơn trong công việc hằng ngày, trình bày ý tưởng mạch lạc hơn và xử lý tình huống khéo léo hơn khi có bất đồng quan điểm về thiết kế kiến trúc trong nhóm.

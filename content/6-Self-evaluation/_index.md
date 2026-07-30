@@ -26,7 +26,7 @@ Regarding my professional conduct, I consistently strived to fulfill my duties, 
 | 2 | **Learning Agility** | Adapting to and quickly grasping new technologies within a Serverless environment | ✅ | ☐ | ☐ |
 | 3 | **Proactiveness** | Independently researching documentation and proposing architectural solutions without waiting for instructions | ☐ | ✅ | ☐ |
 | 4 | **Commitment and Responsibility** | Ensuring assigned tasks are completed on schedule and meet the team's quality standards | ✅ | ☐ | ☐ |
-| 5 | **Discipline** | Adhering to meeting schedules and common workflow regulations | ☐ | ☐ | ✅ |
+| 5 | **Discipline** | Adhering to meeting schedules and common workflow regulations | ✅ | ☐ | ☐ |
 | 6 | **Progressive Attitude** | Being open to feedback from mentors and teammates to further optimize the system | ✅ | ☐ | ☐ |
 | 7 | **Communication Skills** | Expressing technical ideas clearly and providing coherent progress updates | ☐ | ✅ | ☐ |
 | 8 | **Teamwork** | Coordinating smoothly with other members, particularly during Backend-Frontend integration | ✅ | ☐ | ☐ |
@@ -39,6 +39,6 @@ Regarding my professional conduct, I consistently strived to fulfill my duties, 
 
 Although I successfully fulfilled my technical role in the project, looking back at my workflow, I realize there are several areas I need to improve for future career development:
 
-* **Enhance Discipline:** I need to cultivate a more professional demeanor and strictly comply with the internal rules and regulations of the company or any organization I join.
+* **Personal Time Management:** Although I consistently adhere to the team's schedule and discipline, my time allocation between researching new architectural technologies and executing the project was occasionally suboptimal, often resulting in working late hours.
 * **Improve Problem-Solving Mindset:** During situations involving infrastructure integration errors, my approach was sometimes too rigid. I need to practice viewing problems from multiple perspectives to propose more creative and optimal solutions.
 * **Communication Skills:** I need to learn how to communicate better in daily interactions and professional settings, presenting my ideas more coherently and handling situations tactfully, especially when there are disagreements regarding architectural designs within the team.
