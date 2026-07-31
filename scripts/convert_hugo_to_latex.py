@@ -705,7 +705,7 @@ def convert_to_latex(md_text, source_path=None):
                     tmp_in,
                     "-f", "markdown+raw_tex+fenced_divs+bracketed_spans",
                     "-t", "latex",
-                    "--listings",
+                    "--no-highlight",
                     "--top-level-division=section",
                     "--lua-filter", LUA_FILTER,
                     "-o", tmp_out,
