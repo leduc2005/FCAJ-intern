@@ -594,6 +594,13 @@ def preprocess_markdown(content, meta=None):
     content = content.replace("📝", "")
     content = content.replace("👉", "")
     content = content.replace("🎉", "")
+    
+    # Replace unicode characters that crash pdflatex
+    content = content.replace("≥", r"$\ge$")
+    content = content.replace("├", "|--")
+    content = content.replace("─", "-")
+    content = content.replace("│", "|")
+    content = content.replace("└", "|__")
 
     return content
 # ---------------------------------------------------------------------------
@@ -698,6 +705,7 @@ def convert_to_latex(md_text, source_path=None):
                     tmp_in,
                     "-f", "markdown+raw_tex+fenced_divs+bracketed_spans",
                     "-t", "latex",
+                    "--listings",
                     "--top-level-division=section",
                     "--lua-filter", LUA_FILTER,
                     "-o", tmp_out,
