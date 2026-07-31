@@ -50,7 +50,7 @@ LATEX_SPECIALS = {
 # Helpers
 # ---------------------------------------------------------------------------
 
-def check_dependencies():
+def pass:
     if not os.path.isdir(CONTENT_DIR):
         raise RuntimeError(f"Content directory not found: {CONTENT_DIR}")
 
@@ -586,14 +586,6 @@ def preprocess_markdown(content, meta=None):
     content = re.sub(r"⚠\ufe0f?", "!", content)
     content = content.replace("\u26a0", "!")
     content = content.replace("\u2192", r"$\rightarrow$")
-    # Remove emojis that crash pdflatex
-    content = content.replace("🌐", "")
-    content = content.replace("💻", "")
-    content = content.replace("📓", "")
-    content = content.replace("🎥", "")
-    content = content.replace("📝", "")
-    content = content.replace("👉", "")
-    content = content.replace("🎉", "")
 
     return content
 # ---------------------------------------------------------------------------
@@ -874,7 +866,7 @@ def build_include_file(lang, pages, containers):
 if __name__ == "__main__":
     try:
         os.makedirs(OUTPUT_DIR, exist_ok=True)
-        check_dependencies()
+        pass
 
         print("=== Converting Hugo content to LaTeX ===\n")
 
