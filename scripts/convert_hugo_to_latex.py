@@ -594,6 +594,9 @@ def preprocess_markdown(content, meta=None):
     content = content.replace("📝", "")
     content = content.replace("👉", "")
     content = content.replace("🎉", "")
+    content = content.replace("🤖", "")
+    content = content.replace("⚖", "")
+    content = content.replace("\ufe0f", "")
     
     # Replace unicode characters that crash pdflatex
     content = content.replace("≥", r"$\ge$")
